@@ -43,14 +43,15 @@ int main(){
 
 
 ##Soal 2
-**Alur logaritma**
+
+**Alur algoritma**
 1. Deklarasikan variabel `int n, x, t, batas
 2. Masukan input `cin >> n`
 3. Deklarasikan nilai `batas = n + 100 ; x = 20 ; t = n
 4. Selama kondisi `t <= batas` masih bersifat **True** maka akan dikerjakan t = t + x ; x = x + 10
 5. cetak `cout << t`
 
-** Berikut code lengkapnya**
+**Berikut code lengkapnya**
 ```
 #include<iostream>
 using namespace std;
